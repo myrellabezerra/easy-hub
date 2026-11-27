@@ -1,0 +1,19 @@
+/* Fontes servidas pelo próprio site: nenhuma requisição ao Google (o IP do
+   visitante não é enviado a terceiros). Licença SIL Open Font License 1.1,
+   textos em OFL-inter.txt e OFL-outfit.txt. */
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("inter-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600 800;
+  font-display: swap;
+  src: url("outfit-latin.woff2") format("woff2");
+}
